@@ -1,0 +1,26 @@
+# ninja log v5
+1	78	1683062091193576118	CMakeFiles/opp_paper.dir/AType.cpp.o	caf73f3a73d572d
+1	680	1683062091793576150	CMakeFiles/opp_paper.dir/BType.cpp.o	b816ffe49f31ffa3
+79	711	1683062091826909485	CMakeFiles/opp_paper.dir/CType.cpp.o	c1df73ae8495920b
+1	483	1683062306563587372	CMakeFiles/opp_paper.dir/CType.cpp.o	c1df73ae8495920b
+483	515	1683062306596920707	CMakeFiles/opp_paper.dir/DType.cpp.o	22c449fdc44247f
+0	549	1683062306630254043	CMakeFiles/opp_paper.dir/main.cpp.o	a0542b46473e549b
+0	620	1683062306700254046	CMakeFiles/opp_paper.dir/BType.cpp.o	b816ffe49f31ffa3
+620	716	1683062306796920718	opp_paper	b39a7d27e4d635de
+0	24	1683062341463589203	CMakeFiles/opp_paper.dir/DType.cpp.o	22c449fdc44247f
+0	353	1683062341793589220	CMakeFiles/opp_paper.dir/main.cpp.o	a0542b46473e549b
+353	424	1683062341863589223	opp_paper	b39a7d27e4d635de
+1	35	1683062753283610758	CMakeFiles/opp_paper.dir/DType.cpp.o	22c449fdc44247f
+1	396	1683062753643610777	CMakeFiles/opp_paper.dir/CType.cpp.o	c1df73ae8495920b
+1	410	1683062753656944111	CMakeFiles/opp_paper.dir/main.cpp.o	a0542b46473e549b
+410	492	1683062753740277449	opp_paper	b39a7d27e4d635de
+1	25	1683062773423611811	CMakeFiles/opp_paper.dir/DType.cpp.o	22c449fdc44247f
+1	417	1683062773813611832	CMakeFiles/opp_paper.dir/main.cpp.o	a0542b46473e549b
+1	441	1683062773836945167	CMakeFiles/opp_paper.dir/CType.cpp.o	c1df73ae8495920b
+441	519	1683062773916945171	opp_paper	b39a7d27e4d635de
+1	42	1683063251390303394	CMakeFiles/opp_paper.dir/AType.cpp.o	caf73f3a73d572d
+2	450	1683063251800303416	CMakeFiles/opp_paper.dir/BType.cpp.o	b816ffe49f31ffa3
+450	477	1683063251826970084	CMakeFiles/opp_paper.dir/DType.cpp.o	22c449fdc44247f
+1	607	1683063251956970091	CMakeFiles/opp_paper.dir/main.cpp.o	a0542b46473e549b
+42	637	1683063251986970093	CMakeFiles/opp_paper.dir/CType.cpp.o	c1df73ae8495920b
+637	717	1683063252066970096	opp_paper	b39a7d27e4d635de

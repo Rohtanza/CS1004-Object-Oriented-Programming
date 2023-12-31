@@ -1,0 +1,3 @@
+/home/_rayhan/Desktop/opp paper/cmake-build-debug/CMakeFiles/opp_paper.dir
+/home/_rayhan/Desktop/opp paper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/_rayhan/Desktop/opp paper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

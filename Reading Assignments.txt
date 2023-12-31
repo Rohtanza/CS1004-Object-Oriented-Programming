@@ -1,0 +1,8 @@
+Read chapters 2 and 3 named "C++ Programming Basics" and "Loops and Decisions" repsectively from the book "Object-Oriented Programming in C++ by Robert Lafore" already uploaded  on GCR.
+
+Please read Chapter 10 titled "Classes and Data Abstraction" of D.S. Malik book already uploaded as your 2nd reading assingment.
+Also be prepared for a quiz in the first class of the coming week.
+
+
+Please read Chapter 13 of the DS Malik already uploaded on GCR till page 780. The topics covered in these pages are the ones we covered this week related to the dynamic memory and the need for defining destructor and copy constructor for classes containing pointers as data members.
+

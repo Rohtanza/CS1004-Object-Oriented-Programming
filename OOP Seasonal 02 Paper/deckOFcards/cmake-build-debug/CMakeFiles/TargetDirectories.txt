@@ -1,0 +1,3 @@
+D:/deckOFcards/cmake-build-debug/CMakeFiles/deckOFcards.dir
+D:/deckOFcards/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/deckOFcards/cmake-build-debug/CMakeFiles/rebuild_cache.dir

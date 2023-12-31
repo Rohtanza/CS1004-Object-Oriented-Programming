@@ -1,0 +1,4 @@
+/opt/clion-2022.3.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion-2022.3.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/rayhan/Desktop/Composition_Practice/QuestioNo01 -B /home/rayhan/Desktop/Composition_Practice/QuestioNo01/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rayhan/Desktop/Composition_Practice/QuestioNo01/cmake-build-debug
